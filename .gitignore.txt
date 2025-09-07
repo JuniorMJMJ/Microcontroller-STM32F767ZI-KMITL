@@ -1,0 +1,10 @@
+# STM32CubeIDE
+*.project
+*.cproject
+*.mxproject
+*.launch
+
+# Build folders
+Debug/
+Release/
+.build/
